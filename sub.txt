@@ -15,39 +15,5 @@
     "sni": "weqwwdf.fll.mitivpn.dseewch.ss.ssanewdfdsgx.gloteefghedcalasd.ssl.fastly.net.b5r.ir",
     "alpn": "http/1.1",
     "fp": "chrome"
-  },
-  {
-    "v": "2",
-    "ps": " 𝗙𝗮𝘀𝗧 ⚡ 🇸🇪",
-    "add": "188.114.97.6",
-    "port": 443,
-    "id": "mitivpn",
-    "aid": "0",
-    "scy": "auto",
-    "net": "ws",
-    "type": "none",
-    "host": "swiden.kird-mitivpn.global.ssl.b5r.ir",
-    "path": "https://chatgpt.com",
-    "tls": "tls",
-    "sni": "swwdf.fll.mitivpn.dsch.ss.ssanewdfdsgx.gloteefghedcalasd.ssl.fastly.net.b5r.ir",
-    "alpn": "http/1.1",
-    "fp": "chrome"
-  },
-  {
-    "v": "2",
-    "ps": "𝗙𝗮𝘀𝗧 ⚡ 🇩🇪",
-    "add": "188.114.97.6",
-    "port": 443,
-    "id": "mitivpn",
-    "aid": "0",
-    "scy": "auto",
-    "net": "ws",
-    "type": "none",
-    "host": "sde22.rgkird-mitivpn.global.ssl.b5r.ir",
-    "path": "https://chatgpt.com",
-    "tls": "tls",
-    "sni": "de22df.fll.mitivpn.dscweh.ss.ssanaewdfdsgx.gloteefghedcalasd.ssl.fastly.net.b5r.ir",
-    "alpn": "http/1.1",
-    "fp": "chrome"
   }
 ]
